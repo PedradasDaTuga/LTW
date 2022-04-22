@@ -17,19 +17,34 @@
         </header>
     
         <main>
+            <h2>Restaurants</h2>
+            <section id="restaurants">
+                <article>
+                    <img src="https://picsum.photos/200?1">
+                    <a href="restaurant.php?id1">Restaurant Name </a>
+                </article>
+                
+                
+                <article>
+                    <img src="https://picsum.photos/200?1">
+                    <a href="restaurant.php?id1">Restaurant Name </a>
+                </article>
 
+                <article>
+                    <img src="https://picsum.photos/200?1">
+                    <a href="restaurant.php?id1">Restaurant Name </a>
+                </article>
 
+                <article>
+                    <img src="https://picsum.photos/200?1">
+                    <a href="restaurant.php?id1">Restaurant Name </a>
+                </article>
 
+            </section>
+        </main>
 
-
-
+        <footer>
+            LTW Project
+        </footer>
     </body>
-
-
-
-
-
-
-
-
 </html>
